@@ -40,3 +40,7 @@ Future Enhancements
 
 - Aditya Khandagale
 - Team Members
+
+- screenshot output
+- <img width="1916" height="989" alt="image" src="https://github.com/user-attachments/assets/14560a9c-4c97-4fc3-829b-9321c03b03a3" />
+
